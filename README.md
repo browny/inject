@@ -1,5 +1,5 @@
 # inject [![GoDoc](https://godoc.org/github.com/browny/inject?status.svg)](http://godoc.org/github.com/browny/inject)
-the improved version of https://github.com/facebookgo/inject
+Golang injection framework based on https://github.com/facebookgo/inject
 
 ## Usage
 See how it works in `inject_test.go` by running `go test`
